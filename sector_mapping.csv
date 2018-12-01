@@ -1,0 +1,969 @@
+Sector,Stock
+Health Technology,A
+Non-Energy Minerals,AA
+Transportation,AAL
+Retail Trade,AAP
+Electronic Technology,AAPL
+Health Technology,ABBV
+Distribution Services,ABC
+Health Technology,ABMD
+Health Technology,ABT
+Finance,ACC
+Finance,ACGL
+Health Services,ACHC
+Industrial Services,ACM
+Technology Services,ACN
+Technology Services,ADBE
+Electronic Technology,ADI
+Process Industries,ADM
+Producer Manufacturing,ADNT
+Technology Services,ADP
+Technology Services,ADS
+Technology Services,ADSK
+Utilities,AEE
+Utilities,AEP
+Utilities,AES
+Health Services,AET
+Finance,AFG
+Finance,AFL
+Producer Manufacturing,AGCO
+Health Technology,AGIO
+Health Technology,AGN
+Finance,AGNC
+Finance,AGO
+Utilities,AGR
+Finance,AHL
+Finance,AIG
+Finance,AIV
+Finance,AIZ
+Finance,AJG
+Technology Services,AKAM
+Finance,AL
+Process Industries,ALB
+Health Technology,ALGN
+Transportation,ALK
+Health Technology,ALKS
+Finance,ALL
+Producer Manufacturing,ALLE
+Finance,ALLY
+Health Technology,ALNY
+Producer Manufacturing,ALSN
+Health Technology,ALXN
+Electronic Technology,AMAT
+Consumer Services,AMCX
+Electronic Technology,AMD
+Producer Manufacturing,AME
+Finance,AMG
+Health Technology,AMGN
+Finance,AMH
+Finance,AMP
+Finance,AMT
+Finance,AMTD
+Retail Trade,AMZN
+Retail Trade,AN
+Finance,ANAT
+Electronic Technology,ANET
+Technology Services,ANSS
+Health Services,ANTM
+Finance,AON
+Producer Manufacturing,AOS
+Energy Minerals,APA
+Energy Minerals,APC
+Process Industries,APD
+Electronic Technology,APH
+Finance,APLE
+Producer Manufacturing,APTV
+Energy Minerals,AR
+Process Industries,ARD
+Finance,ARE
+Consumer Services,ARMK
+Non-Energy Minerals,ARNC
+Electronic Technology,ARRS
+Distribution Services,ARW
+Finance,ASB
+Process Industries,ASH
+Finance,ATH
+Technology Services,ATHN
+Utilities,ATO
+Process Industries,ATR
+Consumer Durables,ATVI
+Finance,AVB
+Electronic Technology,AVGO
+Distribution Services,AVT
+Process Industries,AVY
+Producer Manufacturing,AWI
+Utilities,AWK
+Finance,AXP
+Finance,AXS
+Process Industries,AXTA
+Producer Manufacturing,AYI
+Retail Trade,AZO
+Technology Services,AZPN
+Electronic Technology,BA
+Finance,BAC
+Commercial Services,BAH
+Health Technology,BAX
+Finance,BBT
+Retail Trade,BBY
+Consumer Durables,BC
+Finance,BDN
+Health Technology,BDX
+Finance,BEN
+Process Industries,BERY
+Consumer Non-Durables,BF.A
+Consumer Non-Durables,BF.B
+Commercial Services,BFAM
+Process Industries,BG
+Finance,BGCP
+Finance,BHF
+Industrial Services,BHGE
+Health Technology,BIIB
+Health Technology,BIO
+Finance,BK
+Technology Services,BKI
+Consumer Services,BKNG
+Finance,BKU
+Finance,BLK
+Process Industries,BLL
+Health Technology,BLUE
+Health Technology,BMRN
+Process Industries,BMS
+Health Technology,BMY
+Finance,BOH
+Finance,BOKF
+Finance,BPOP
+Commercial Services,BR
+Finance,BRK.B
+Health Technology,BRKR
+Finance,BRO
+Finance,BRX
+Health Technology,BSX
+Retail Trade,BURL
+Producer Manufacturing,BWA
+Electronic Technology,BWXT
+Finance,BXP
+Finance,C
+Technology Services,CA
+Consumer Services,CABO
+Finance,CACC
+Consumer Non-Durables,CAG
+Distribution Services,CAH
+Retail Trade,CASY
+Producer Manufacturing,CAT
+Finance,CB
+Finance,CBOE
+Finance,CBRE
+Consumer Services,CBS
+Finance,CBSH
+Process Industries,CBT
+Process Industries,CC
+Finance,CCI
+Process Industries,CCK
+Consumer Services,CCL.U
+Energy Minerals,CDEV
+Commercial Services,CDK
+Electronic Technology,CDNS
+Technology Services,CDW
+Process Industries,CE
+Health Technology,CELG
+Technology Services,CERN
+Process Industries,CF
+Finance,CFG
+Finance,CFR
+Producer Manufacturing,CFX
+Electronic Technology,CGNX
+Consumer Non-Durables,CHD
+Health Services,CHE
+Consumer Services,CHH
+Energy Minerals,CHK
+Transportation,CHRW
+Consumer Services,CHTR
+Health Services,CI
+Finance,CIM
+Finance,CINF
+Finance,CIT
+Consumer Non-Durables,CL
+Technology Services,CLGX
+Industrial Services,CLH
+Finance,CLNY
+Energy Minerals,CLR
+Consumer Non-Durables,CLX
+Finance,CMA
+Consumer Services,CMCSA
+Health Technology,CMD
+Finance,CME
+Consumer Services,CMG
+Producer Manufacturing,CMI
+Utilities,CMS
+Finance,CNA
+Health Services,CNC
+Commercial Services,CNDT
+Consumer Services,CNK
+Utilities,CNP
+Energy Minerals,CNX
+Finance,COF
+Energy Minerals,COG
+Electronic Technology,COHR
+Electronic Technology,COL
+Consumer Non-Durables,COLM
+Electronic Technology,COMM
+Finance,CONE
+Health Technology,COO
+Energy Minerals,COP
+Finance,COR
+Retail Trade,COST
+Consumer Non-Durables,COTY
+Transportation,CPA
+Consumer Non-Durables,CPB
+Commercial Services,CPRT
+Finance,CPT
+Producer Manufacturing,CR
+Retail Trade,CRI
+Commercial Services,CRL
+Technology Services,CRM
+Electronic Technology,CSCO
+Technology Services,CSGP
+Producer Manufacturing,CSL
+Transportation,CSX
+Consumer Services,CTAS
+Communications,CTL
+Health Technology,CTLT
+Technology Services,CTSH
+Technology Services,CTXS
+Finance,CUBE
+Retail Trade,CVS
+Energy Minerals,CVX
+Electronic Technology,CW
+Energy Minerals,CXO
+Finance,CXP
+Electronic Technology,CY
+Consumer Services,CZR
+Utilities,D
+Transportation,DAL
+Technology Services,DATA
+Process Industries,DCI
+Producer Manufacturing,DE
+Finance,DEI
+Finance,DFS
+Retail Trade,DG
+Health Services,DGX
+Consumer Durables,DHI
+Health Technology,DHR
+Consumer Services,DIS
+Consumer Services,DISCA
+Consumer Services,DISCK
+Consumer Services,DISH
+Retail Trade,DKS
+Electronic Technology,DLB
+Finance,DLR
+Retail Trade,DLTR
+Commercial Services,DNB
+Consumer Services,DNKN
+Producer Manufacturing,DOV
+Technology Services,DOX
+Consumer Services,DPZ
+Finance,DRE
+Consumer Services,DRI
+Utilities,DTE
+Utilities,DUK
+Health Services,DVA
+Electronic Technology,DVMT
+Energy Minerals,DVN
+Process Industries,DWDP
+Technology Services,DXC
+Health Technology,DXCM
+Consumer Durables,EA
+Consumer Services,EBAY
+Process Industries,ECL
+Utilities,ED
+Technology Services,EEFT
+Commercial Services,EFX
+Energy Minerals,EGN
+Health Services,EHC
+Utilities,EIX
+Consumer Non-Durables,EL
+Finance,ELS
+Process Industries,EMN
+Producer Manufacturing,EMR
+Consumer Non-Durables,ENR
+Energy Minerals,EOG
+Technology Services,EPAM
+Finance,EPR
+Finance,EQC
+Finance,EQIX
+Finance,EQR
+Energy Minerals,EQT
+Finance,ERIE
+Utilities,ES
+Finance,ESRT
+Health Services,ESRX
+Finance,ESS
+Finance,ETFC
+Producer Manufacturing,ETN
+Utilities,ETR
+Finance,EV
+Finance,EVR
+Utilities,EVRG
+Health Technology,EW
+Finance,EWBC
+Health Technology,EXAS
+Utilities,EXC
+Health Technology,EXEL
+Non-Energy Minerals,EXP
+Transportation,EXPD
+Consumer Services,EXPE
+Finance,EXR
+Consumer Durables,F
+Finance,FAF
+Energy Minerals,FANG
+Distribution Services,FAST
+Technology Services,FB
+Producer Manufacturing,FBHS
+Finance,FCE.A
+Finance,FCNCA
+Non-Energy Minerals,FCX
+Technology Services,FDC
+Commercial Services,FDS
+Transportation,FDX
+Utilities,FE
+Technology Services,FEYE
+Electronic Technology,FFIV
+Finance,FHB
+Finance,FHN
+Technology Services,FICO
+Technology Services,FIS
+Technology Services,FISV
+Finance,FITB
+Retail Trade,FL
+Electronic Technology,FLIR
+Consumer Non-Durables,FLO
+Industrial Services,FLR
+Producer Manufacturing,FLS
+Commercial Services,FLT
+Process Industries,FMC
+Finance,FNB
+Retail Trade,FND
+Finance,FNF
+Consumer Services,FOX
+Consumer Services,FOXA
+Finance,FRC
+Finance,FRT
+Electronic Technology,FSLR
+Electronic Technology,FTNT
+Electronic Technology,FTV
+Consumer Services,FWONA
+Consumer Services,FWONK
+Commercial Services,G
+Electronic Technology,GD
+Technology Services,GDDY
+Producer Manufacturing,GDI
+Producer Manufacturing,GE
+Producer Manufacturing,GGG
+Consumer Services,GHC
+Health Technology,GILD
+Consumer Non-Durables,GIS
+Finance,GLPI
+Electronic Technology,GLW
+Consumer Durables,GM
+Producer Manufacturing,GNTX
+Technology Services,GOOG
+Technology Services,GOOGL
+Distribution Services,GPC
+Process Industries,GPK
+Technology Services,GPN
+Retail Trade,GPS
+Process Industries,GRA
+Electronic Technology,GRMN
+Retail Trade,GRUB
+Finance,GS
+Consumer Durables,GT
+Transportation,GWR
+Technology Services,GWRE
+Distribution Services,GWW
+Consumer Services,H
+Consumer Non-Durables,HAIN
+Industrial Services,HAL
+Consumer Durables,HAS
+Finance,HBAN
+Consumer Non-Durables,HBI
+Health Services,HCA
+Finance,HCP
+Retail Trade,HD
+Distribution Services,HDS
+Utilities,HE
+Electronic Technology,HEI
+Electronic Technology,HEI.A
+Energy Minerals,HES
+Energy Minerals,HFC
+Finance,HGV
+Finance,HHC
+Finance,HIG
+Electronic Technology,HII
+Finance,HIW
+Distribution Services,HLF
+Consumer Services,HLT
+Consumer Durables,HOG
+Health Technology,HOLX
+Producer Manufacturing,HON
+Industrial Services,HP
+Electronic Technology,HPE
+Finance,HPP
+Electronic Technology,HPQ
+Finance,HPT
+Consumer Services,HRB
+Health Technology,HRC
+Consumer Non-Durables,HRL
+Electronic Technology,HRS
+Distribution Services,HSIC
+Finance,HST
+Consumer Non-Durables,HSY
+Finance,HTA
+Producer Manufacturing,HUBB
+Health Services,HUM
+Process Industries,HUN
+Electronic Technology,HXL
+Technology Services,IAC
+Health Technology,IART
+Finance,IBKR
+Technology Services,IBM
+Finance,ICE
+Health Technology,ICUI
+Health Technology,IDXX
+Producer Manufacturing,IEX
+Consumer Non-Durables,IFF
+Consumer Services,IGT
+Health Technology,ILMN
+Health Technology,INCY
+Commercial Services,INFO
+Process Industries,INGR
+Electronic Technology,INTC
+Technology Services,INTU
+Finance,INVH
+Health Technology,IONS
+Process Industries,IP
+Commercial Services,IPG
+Electronic Technology,IPGP
+Health Services,IQV
+Producer Manufacturing,IR
+Finance,IRM
+Health Technology,ISRG
+Commercial Services,IT
+Producer Manufacturing,ITT
+Producer Manufacturing,ITW
+Finance,IVZ
+Health Technology,JAZZ
+Finance,JBGS
+Transportation,JBHT
+Electronic Technology,JBL
+Transportation,JBLU
+Commercial Services,JCI
+Industrial Services,JEC
+Finance,JEF
+Technology Services,JKHY
+Finance,JLL
+Health Technology,JNJ
+Electronic Technology,JNPR
+Finance,JPM
+Consumer Services,JW.A
+Retail Trade,JWN
+Consumer Non-Durables,K
+Commercial Services,KAR
+Consumer Non-Durables,KDP
+Transportation,KEX
+Finance,KEY
+Electronic Technology,KEYS
+Consumer Non-Durables,KHC
+Finance,KIM
+Electronic Technology,KLAC
+Consumer Non-Durables,KMB
+Industrial Services,KMI
+Retail Trade,KMX
+Transportation,KNX
+Consumer Non-Durables,KO
+Retail Trade,KORS
+Energy Minerals,KOS
+Retail Trade,KR
+Finance,KRC
+Retail Trade,KSS
+Transportation,KSU
+Finance,L
+Finance,LAMR
+Finance,LAZ
+Retail Trade,LB
+Communications,LBRDA
+Communications,LBRDK
+Technology Services,LDOS
+Producer Manufacturing,LEA
+Producer Manufacturing,LECO
+Consumer Durables,LEG
+Consumer Durables,LEN
+Consumer Durables,LEN.B
+Producer Manufacturing,LFUS
+Consumer Services,LGF.A
+Consumer Services,LGF.B
+Health Services,LH
+Producer Manufacturing,LII
+Consumer Durables,LKQ
+Electronic Technology,LLL
+Health Technology,LLY
+Finance,LM
+Electronic Technology,LMT
+Finance,LNC
+Industrial Services,LNG
+Utilities,LNT
+Technology Services,LOGM
+Commercial Services,LOPE
+Retail Trade,LOW
+Finance,LPLA
+Finance,LPT
+Electronic Technology,LRCX
+Finance,LSI
+Transportation,LSTR
+Consumer Services,LSXMA
+Consumer Services,LSXMK
+Retail Trade,LULU
+Transportation,LUV
+Consumer Services,LVS
+Consumer Non-Durables,LW
+Process Industries,LYB
+Consumer Services,LYV
+Retail Trade,M
+Finance,MA
+Finance,MAA
+Finance,MAC
+Commercial Services,MAN
+Technology Services,MANH
+Consumer Services,MAR
+Producer Manufacturing,MAS
+Health Technology,MASI
+Consumer Durables,MAT
+Consumer Services,MCD
+Electronic Technology,MCHP
+Distribution Services,MCK
+Commercial Services,MCO
+Finance,MCY
+Health Services,MD
+Consumer Non-Durables,MDLZ
+Health Technology,MDT
+Utilities,MDU
+Finance,MET
+Finance,MFA
+Consumer Services,MGM
+Consumer Durables,MHK
+Finance,MIC
+Producer Manufacturing,MIDD
+Retail Trade,MIK
+Consumer Non-Durables,MKC
+Finance,MKL
+Electronic Technology,MKSI
+Finance,MKTX
+Non-Energy Minerals,MLM
+Finance,MMC
+Producer Manufacturing,MMM
+Consumer Non-Durables,MNST
+Consumer Non-Durables,MO
+Health Services,MOH
+Commercial Services,MORN
+Process Industries,MOS
+Energy Minerals,MPC
+Finance,MPW
+Electronic Technology,MPWR
+Health Technology,MRK
+Energy Minerals,MRO
+Electronic Technology,MRVL
+Finance,MS
+Commercial Services,MSCI
+Technology Services,MSFT
+Consumer Services,MSG
+Electronic Technology,MSI
+Distribution Services,MSM
+Finance,MTB
+Technology Services,MTCH
+Health Technology,MTD
+Consumer Services,MTN
+Electronic Technology,MU
+Energy Minerals,MUR
+Electronic Technology,MXIM
+Health Technology,MYL
+Technology Services,NATI
+Finance,NAVI
+Health Technology,NBIX
+Energy Minerals,NBL
+Industrial Services,NBR
+Consumer Services,NCLH
+Electronic Technology,NCR
+Finance,NDAQ
+Producer Manufacturing,NDSN
+Utilities,NEE
+Non-Energy Minerals,NEM
+Process Industries,NEU
+Energy Minerals,NFG
+Consumer Services,NFLX
+Energy Minerals,NFX
+Utilities,NI
+Consumer Non-Durables,NKE
+Health Technology,NKTR
+Commercial Services,NLSN
+Finance,NLY
+Finance,NNN
+Electronic Technology,NOC
+Industrial Services,NOV
+Technology Services,NOW
+Utilities,NRG
+Finance,NRZ
+Transportation,NSC
+Electronic Technology,NTAP
+Technology Services,NTNX
+Finance,NTRS
+Technology Services,NUAN
+Non-Energy Minerals,NUE
+Consumer Non-Durables,NUS
+Electronic Technology,NVDA
+Consumer Durables,NVR
+Producer Manufacturing,NWL
+Consumer Services,NWS
+Consumer Services,NWSA
+Electronic Technology,NXPI
+Finance,NYCB
+Finance,O
+Non-Energy Minerals,OC
+Transportation,ODFL
+Finance,OFC
+Utilities,OGE
+Finance,OHI
+Process Industries,OI
+Industrial Services,OKE
+Technology Services,OKTA
+Electronic Technology,OLED
+Process Industries,OLN
+Commercial Services,OMC
+Finance,OMF
+Electronic Technology,ON
+Technology Services,ORCL
+Finance,ORI
+Retail Trade,ORLY
+Producer Manufacturing,OSK
+Finance,OUT
+Energy Minerals,OXY
+Finance,OZK
+Finance,PACW
+Retail Trade,PAG
+Process Industries,PAH
+Electronic Technology,PANW
+Technology Services,PAYC
+Technology Services,PAYX
+Finance,PB
+Finance,PBCT
+Energy Minerals,PBF
+Producer Manufacturing,PCAR
+Utilities,PCG
+Energy Minerals,PE
+Utilities,PEG
+Technology Services,PEGA
+Health Technology,PEN
+Consumer Non-Durables,PEP
+Health Technology,PFE
+Finance,PFG
+Technology Services,PFPT
+Consumer Non-Durables,PG
+Finance,PGR
+Finance,PGRE
+Producer Manufacturing,PH
+Consumer Durables,PHM
+Consumer Durables,PII
+Health Services,PINC
+Finance,PK
+Process Industries,PKG
+Health Technology,PKI
+Finance,PLD
+Consumer Non-Durables,PM
+Finance,PNC
+Finance,PNFP
+Producer Manufacturing,PNR
+Utilities,PNW
+Health Technology,PODD
+Distribution Services,POOL
+Consumer Non-Durables,POST
+Consumer Non-Durables,PPC
+Process Industries,PPG
+Utilities,PPL
+Commercial Services,PRAH
+Health Technology,PRGO
+Finance,PRU
+Finance,PSA
+Electronic Technology,PSTG
+Energy Minerals,PSX
+Technology Services,PTC
+Industrial Services,PTEN
+Consumer Non-Durables,PVH
+Industrial Services,PWR
+Process Industries,PX
+Energy Minerals,PXD
+Technology Services,PYPL
+Electronic Technology,QCOM
+Energy Minerals,QEP
+Health Technology,QGEN
+Retail Trade,QRTEA
+Electronic Technology,QRVO
+Finance,R
+Producer Manufacturing,RBC
+Consumer Services,RCL
+Finance,RE
+Finance,REG
+Health Technology,REGN
+Industrial Services,RES
+Finance,RF
+Finance,RGA
+Non-Energy Minerals,RGLD
+Commercial Services,RHI
+Technology Services,RHT
+Industrial Services,RIG
+Finance,RJF
+Retail Trade,RL
+Finance,RLGY
+Health Technology,RMD
+Technology Services,RNG
+Finance,RNR
+Producer Manufacturing,ROK
+Consumer Services,ROL
+Producer Manufacturing,ROP
+Retail Trade,ROST
+Technology Services,RP
+Finance,RPAI
+Process Industries,RPM
+Energy Minerals,RRC
+Non-Energy Minerals,RS
+Industrial Services,RSG
+Electronic Technology,RTN
+Finance,RYN
+Communications,S
+Technology Services,SABR
+Health Technology,SAGE
+Electronic Technology,SATS
+Finance,SBAC
+Finance,SBNY
+Consumer Services,SBUX
+Finance,SC
+Non-Energy Minerals,SCCO
+Utilities,SCG
+Finance,SCHW
+Consumer Services,SCI
+Consumer Non-Durables,SEB
+Process Industries,SEE
+Finance,SEIC
+Consumer Services,SERV
+Retail Trade,SFM
+Health Technology,SGEN
+Process Industries,SHW
+Consumer Services,SIRI
+Finance,SITC
+Finance,SIVB
+Consumer Services,SIX
+Consumer Non-Durables,SJM
+Consumer Non-Durables,SKX
+Industrial Services,SLB
+Finance,SLG
+Process Industries,SLGN
+Finance,SLM
+Energy Minerals,SM
+Process Industries,SMG
+Consumer Durables,SNA
+Transportation,SNDR
+Finance,SNH
+Technology Services,SNPS
+Finance,SNV
+Utilities,SO
+Process Industries,SON
+Consumer Durables,SPB
+Finance,SPG
+Commercial Services,SPGI
+Technology Services,SPLK
+Electronic Technology,SPR
+Technology Services,SQ
+Finance,SRC
+Health Services,SRCL
+Utilities,SRE
+Health Technology,SRPT
+Technology Services,SSNC
+Electronic Technology,ST
+Consumer Services,STAY.U
+Health Technology,STE
+Finance,STI
+Finance,STL
+Non-Energy Minerals,STLD
+Finance,STOR
+Finance,STT
+Finance,STWD
+Consumer Non-Durables,STZ
+Finance,SUI
+Technology Services,SWCH
+Consumer Durables,SWK
+Electronic Technology,SWKS
+Finance,SYF
+Health Technology,SYK
+Technology Services,SYMC
+Distribution Services,SYY
+Communications,T
+Consumer Non-Durables,TAP
+Finance,TCBI
+Finance,TCF
+Finance,TCO
+Electronic Technology,TDC
+Electronic Technology,TDG
+Communications,TDS
+Electronic Technology,TDY
+Technology Services,TEAM
+Health Technology,TECH
+Electronic Technology,TER
+Producer Manufacturing,TEX
+Finance,TFSL
+Health Technology,TFX
+Retail Trade,TGT
+Finance,THG
+Consumer Durables,THO
+Consumer Non-Durables,THS
+Retail Trade,TIF
+Retail Trade,TJX
+Producer Manufacturing,TKR
+Finance,TMK
+Health Technology,TMO
+Communications,TMUS
+Consumer Durables,TOL
+Retail Trade,TPR
+Consumer Durables,TPX
+Consumer Services,TRCO
+Energy Minerals,TRGP
+Consumer Services,TRIP
+Electronic Technology,TRMB
+Producer Manufacturing,TRN
+Finance,TROW
+Commercial Services,TRU
+Finance,TRV
+Retail Trade,TSCO
+Consumer Durables,TSLA
+Consumer Non-Durables,TSN
+Health Technology,TSRO
+Technology Services,TSS
+Producer Manufacturing,TTC
+Consumer Durables,TTWO
+Technology Services,TWLO
+Finance,TWO
+Technology Services,TWOU
+Technology Services,TWTR
+Electronic Technology,TXN
+Producer Manufacturing,TXT
+Technology Services,TYL
+Consumer Non-Durables,UA
+Consumer Non-Durables,UAA
+Transportation,UAL
+Electronic Technology,UBNT
+Finance,UDR
+Process Industries,UFS
+Utilities,UGI
+Finance,UHAL
+Health Services,UHS
+Retail Trade,ULTA
+Technology Services,ULTI
+Finance,UMPQ
+Health Services,UNH
+Finance,UNIT
+Finance,UNM
+Transportation,UNP
+Distribution Services,UNVR
+Transportation,UPS
+Retail Trade,URBN
+Finance,URI
+Finance,USB
+Distribution Services,USFD
+Non-Energy Minerals,USG
+Communications,USM
+Health Technology,UTHR
+Producer Manufacturing,UTX
+Finance,V
+Health Technology,VAR
+Producer Manufacturing,VC
+Technology Services,VEEV
+Finance,VER
+Consumer Non-Durables,VFC
+Consumer Services,VIA
+Consumer Services,VIAB
+Finance,VICI
+Finance,VIRT
+Energy Minerals,VLO
+Non-Energy Minerals,VMC
+Producer Manufacturing,VMI
+Technology Services,VMW
+Finance,VNO
+Finance,VOYA
+Finance,VRSK
+Technology Services,VRSN
+Health Technology,VRTX
+Distribution Services,VSM
+Utilities,VST
+Finance,VTR
+Utilities,VVC
+Process Industries,VVV
+Communications,VZ
+Retail Trade,W
+Producer Manufacturing,WAB
+Finance,WAL
+Health Technology,WAT
+Retail Trade,WBA
+Producer Manufacturing,WBC
+Finance,WBS
+Producer Manufacturing,WBT
+Distribution Services,WCC
+Health Services,WCG
+Technology Services,WDAY
+Electronic Technology,WDC
+Utilities,WEC
+Finance,WELL
+Consumer Services,WEN
+Technology Services,WEX
+Finance,WFC
+Industrial Services,WFT
+Consumer Durables,WHR
+Process Industries,WLK
+Energy Minerals,WLL
+Finance,WLTW
+Industrial Services,WM
+Industrial Services,WMB
+Retail Trade,WMT
+Commercial Services,WP
+Finance,WPC
+Energy Minerals,WPX
+Finance,WRB
+Finance,WRI
+Process Industries,WRK
+Retail Trade,WSM
+Producer Manufacturing,WSO
+Health Technology,WST
+Finance,WTFC
+Finance,WTM
+Utilities,WTR
+Finance,WU
+Finance,WY
+Consumer Services,WYND
+Consumer Services,WYNN
+Non-Energy Minerals,X
+Energy Minerals,XEC
+Utilities,XEL
+Electronic Technology,XLNX
+Energy Minerals,XOG
+Energy Minerals,XOM
+Transportation,XPO
+Health Technology,XRAY
+Electronic Technology,XRX
+Producer Manufacturing,XYL
+Finance,Y
+Consumer Services,YUM
+Consumer Services,YUMC
+Commercial Services,Z
+Communications,ZAYO
+Health Technology,ZBH
+Electronic Technology,ZBRA
+Technology Services,ZEN
+Commercial Services,ZG
+Finance,ZION
+Technology Services,ZNGA
+Health Technology,ZTS
